@@ -1,6 +1,6 @@
 [user]
-  name = pigor
-  email = pigor@idopterlabs.com.br
+	name = vinicasanova
+	email = dukeofgod@outlook.com
 [alias]
   co=checkout
   br=branch
@@ -9,8 +9,7 @@
   lg = log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit --date=relative
   who = shortlog -s --
 [core]
-  editor = vim
-  excludesfile = /home/pigor/.gitignore
+  editor = nvim
 [color]
   diff = auto
   status = auto
